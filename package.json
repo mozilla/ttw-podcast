@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/secretrobotron/podcast.webmaker.org/issues"
   },
-  "homepage": "https://github.com/secretrobotron/podcast.webmaker.org"
+  "homepage": "https://github.com/secretrobotron/podcast.webmaker.org",
+  "devDependencies": {
+    "podcast": "^0.1.0"
+  }
 }

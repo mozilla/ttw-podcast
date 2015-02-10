@@ -22,6 +22,9 @@
     "email": "bobby@mozillafoundation.org"
   },
   "itunesExplicit": false,
-  "itunesCategory": [],
+  "itunesCategory": {
+    "name": "Technology",
+    "subcats": null
+  },
   "itunesImage": "http://podcast.webmaker.org/logo-og.png"
 }
