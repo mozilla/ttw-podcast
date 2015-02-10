@@ -1,19 +1,16 @@
 [
   {
-    "title":  "item title",
-    "description": "use this for the content. It can include html.",
-    "url": "http://example.com/article4?this&that",
-    "guid": "1123",
-    "categories": ["Category 1","Category 2","Category 3","Category 4"],
-    "author": "Guest Author",
-    "date": "May 27, 2012",
-    "lat": 33.417974,
-    "long": -111.933231,
-    "itunesAuthor": "Max Nowack",
+    "title": "Webmaker Teach the Web Talk: Episode 1",
+    "description": "Privacy Day Webmaker Teach the Web Talk with Stacy Martin",
+    "url": "http://podcast.webmaker.org/index.html#ttw-episode-1",
+    "guid": "934F2DBE-4BAC-4F6E-970F-F17B601123A6",
+    "author": "Mozilla Webmaker",
+    "date": "Feb 10, 2015",
+    "itunesAuthor": "Mozilla Webmaker",
     "itunesExplicit": false,
-    "itunesSubtitle": "I am a sub title",
-    "itunesSummary": "I am a summary",
-    "itunesDuration": 12345,
-    "itunesKeywords": ["javascript","podcast"]
+    "itunesSubtitle": "Webmaker Teach the Web Talk: Episode 1",
+    "itunesSummary": "Privacy Day Webmaker Teach the Web Talk with Stacy Martin",
+    "itunesDuration": 1172,
+    "itunesKeywords": ["privacy"]
   }
 ]
