@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Webmaker Teach the Web Talk: Episode 1",
+    "description": "Privacy Day Webmaker Teach the Web Talk with Stacy Martin",
+    "url": "http://podcast.webmaker.org/index.html#ttw-episode-1",
+    "author": "Mozilla Webmaker",
+    "date": "Feb 10, 2015",
+    "custom_elements": [
+      {"enclosure": {
+        "_attr": {
+          "url": "http://podcast.webmaker.org/TTW-Episode001.mp3",
+          "length": 18756079,
+          "type": "audio/mpeg"
+        }
+      }},
+      {"itunes:author": "Mozilla Webmaker"},
+      {"itunes:explicit": false},
+      {"itunes:subtitle": "Webmaker Teach the Web Talk: Episode 1"},
+      {"itunes:summary": "Privacy Day Webmaker Teach the Web Talk with Stacy Martin"},
+      {"itunes:duration": 1172},
+      {"itunes:image": {
+          "_attr": {
+            "href": "http://podcast.webmaker.org/logo-og.png"
+          }
+        }
+      },
+      {"itunes:keywords": [
+        "privacy"
+      ]}
+    ],
+    "guid": "0aa92aa5-6af5-43e5-a01f-cecc10438df4"
+  }
+]

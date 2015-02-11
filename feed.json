@@ -1,0 +1,47 @@
+{
+  "title": "Webmaker Podcast",
+  "description": "Periodical talks and shows about teaching, learning, and making on the Web with Webmaker.",
+  "generator": "Webmaker Podcast Feed Generator",
+  "feed_url": "http://podcast.webmaker.org/feed.xml",
+  "site_url": "http://podcast.webmaker.org/index.html",
+  "image_url": "http://podcast.webmaker.org/logo-og.png",
+  "docs": "http://podcast.webmaker.org/index.html",
+  "author": "Mozilla Webmaker",
+  "managingEditor": "Bobby Richter <bobby@mozillafoundation.org> and Lucy Harris <lucy@mozillafoundation.org>",
+  "webMaster": "Bobby Richter <bobby@mozillafoundation.org>",
+  "copyright": "&#xA9; 2015 Bobby Richter, Lucy Harris, Mozilla Webmaker, Mozilla Foundation",
+  "language": "en-us",
+  "categories": ["web", "web literacy", "teach", "learn", "teaching", "learning", "mozilla"],
+  "pubDate": "Feb 10, 2015",
+  "ttl": 10080,
+  "custom_namespaces": {
+    "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+  },
+  "custom_elements": [
+    {"itunes:subtitle": "Webmaker Teach the Web Podcast"},
+    {"itunes:author": "Mozilla Webmaker"},
+    {"itunes:summary": "Periodical talks and shows about teaching, learning, and making on the Web with Webmaker."},
+    {"itunes:owner": [
+      {"itunes:name": "Bobby Richter"},
+      {"itunes:email": "bobby@mozillafoundation.org"}
+    ]},
+    {"itunes:explicit": false},
+    {"itunes:image": {
+      "_attr": {
+        "href": "http://podcast.webmaker.org/logo-og.png"
+      }
+    }},
+    {"itunes:keywords": [
+    ]},
+    {"itunes:category": [
+      {"_attr": {
+        "text": "Education"
+      }},
+      {"itunes:category": {
+        "_attr": {
+          "text": "Education Technology"
+        }
+      }}
+    ]}
+  ]
+}

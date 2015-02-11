@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/secretrobotron/podcast.webmaker.org",
   "devDependencies": {
-    "podcast": "^0.1.0"
+    "rss": "^1.1.1",
+    "node-uuid": "^1.4.2"
   }
 }

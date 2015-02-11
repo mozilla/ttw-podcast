@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[Webmaker Podcast]]></title>
+        <description><![CDATA[Periodical talks and shows about teaching, learning, and making on the Web with Webmaker.]]></description>
+        <link>http://podcast.webmaker.org/index.html</link>
+        <image>
+            <url>http://podcast.webmaker.org/logo-og.png</url>
+            <title>Webmaker Podcast</title>
+            <link>http://podcast.webmaker.org/index.html</link>
+        </image>
+        <generator>Webmaker Podcast Feed Generator</generator>
+        <lastBuildDate>Wed, 11 Feb 2015 13:36:20 GMT</lastBuildDate>
+        <atom:link href="http://podcast.webmaker.org/feed.xml" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Mozilla Webmaker]]></author>
+        <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
+        <copyright><![CDATA[&#xA9; 2015 Bobby Richter, Lucy Harris, Mozilla Webmaker, Mozilla Foundation]]></copyright>
+        <language><![CDATA[en-us]]></language>
+        <managingEditor><![CDATA[Bobby Richter <bobby@mozillafoundation.org> and Lucy Harris <lucy@mozillafoundation.org>]]></managingEditor>
+        <webMaster><![CDATA[Bobby Richter <bobby@mozillafoundation.org>]]></webMaster>
+        <docs>http://podcast.webmaker.org/index.html</docs>
+        <ttl>10080</ttl>
+        <category><![CDATA[web]]></category>
+        <category><![CDATA[web literacy]]></category>
+        <category><![CDATA[teach]]></category>
+        <category><![CDATA[learn]]></category>
+        <category><![CDATA[teaching]]></category>
+        <category><![CDATA[learning]]></category>
+        <category><![CDATA[mozilla]]></category>
+        <itunes:subtitle>Webmaker Teach the Web Podcast</itunes:subtitle>
+        <itunes:author>Mozilla Webmaker</itunes:author>
+        <itunes:summary>Periodical talks and shows about teaching, learning, and making on the Web with Webmaker.</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Bobby Richter</itunes:name>
+            <itunes:email>bobby@mozillafoundation.org</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:image href="http://podcast.webmaker.org/logo-og.png"/>
+        <itunes:keywords>
+        </itunes:keywords>
+        <itunes:category text="Education">
+            <itunes:category text="Education Technology"/>
+        </itunes:category>
+        <item>
+            <title><![CDATA[Webmaker Teach the Web Talk: Episode 1]]></title>
+            <description><![CDATA[Privacy Day Webmaker Teach the Web Talk with Stacy Martin]]></description>
+            <link>http://podcast.webmaker.org/index.html#ttw-episode-1</link>
+            <guid isPermaLink="false">0aa92aa5-6af5-43e5-a01f-cecc10438df4</guid>
+            <dc:creator><![CDATA[Mozilla Webmaker]]></dc:creator>
+            <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
+            <enclosure url="http://podcast.webmaker.org/TTW-Episode001.mp3" length="18756079" type="audio/mpeg"/>
+            <itunes:author>Mozilla Webmaker</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:subtitle>Webmaker Teach the Web Talk: Episode 1</itunes:subtitle>
+            <itunes:summary>Privacy Day Webmaker Teach the Web Talk with Stacy Martin</itunes:summary>
+            <itunes:duration>1172</itunes:duration>
+            <itunes:image href="http://podcast.webmaker.org/logo-og.png"/>
+            <itunes:keywords>privacy</itunes:keywords>
+        </item>
+    </channel>
+</rss>
