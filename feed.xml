@@ -5,12 +5,12 @@
         <description><![CDATA[Periodical talks and shows about teaching, learning, and making on the Web with Webmaker.]]></description>
         <link>http://podcast.webmaker.org/index.html</link>
         <image>
-            <url>http://podcast.webmaker.org/logo-og.png</url>
+            <url>http://podcast.webmaker.org/logo-og.jpg</url>
             <title>Webmaker Podcast</title>
             <link>http://podcast.webmaker.org/index.html</link>
         </image>
         <generator>Webmaker Podcast Feed Generator</generator>
-        <lastBuildDate>Wed, 11 Feb 2015 13:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2015 15:26:45 GMT</lastBuildDate>
         <atom:link href="http://podcast.webmaker.org/feed.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Mozilla Webmaker]]></author>
         <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
@@ -35,15 +35,15 @@
             <itunes:email>bobby@mozillafoundation.org</itunes:email>
         </itunes:owner>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:image href="http://podcast.webmaker.org/logo-og.png"/>
+        <itunes:image href="http://podcast.webmaker.org/logo-og.jpg"/>
         <itunes:keywords>
         </itunes:keywords>
         <itunes:category text="Education">
             <itunes:category text="Education Technology"/>
         </itunes:category>
         <item>
-            <title><![CDATA[Webmaker Teach the Web Talk: Episode 1]]></title>
-            <description><![CDATA[Privacy Day Webmaker Teach the Web Talk with Stacy Martin]]></description>
+            <title><![CDATA[Webmaker Teach the Web Talk: Episode 1 - Privacy]]></title>
+            <description><![CDATA[For Data Privacy Day we sat down with Stacy Martin, Senior Privacy Manager at Mozilla, to talk about who has access to our data, where it goes or could go, and how we can have a choice in all of it.]]></description>
             <link>http://podcast.webmaker.org/index.html#ttw-episode-1</link>
             <guid isPermaLink="false">0aa92aa5-6af5-43e5-a01f-cecc10438df4</guid>
             <dc:creator><![CDATA[Mozilla Webmaker]]></dc:creator>
@@ -54,7 +54,7 @@
             <itunes:subtitle>Webmaker Teach the Web Talk: Episode 1</itunes:subtitle>
             <itunes:summary>Privacy Day Webmaker Teach the Web Talk with Stacy Martin</itunes:summary>
             <itunes:duration>1172</itunes:duration>
-            <itunes:image href="http://podcast.webmaker.org/logo-og.png"/>
+            <itunes:image href="http://podcast.webmaker.org/logo-og.jpg"/>
             <itunes:keywords>privacy</itunes:keywords>
         </item>
     </channel>
