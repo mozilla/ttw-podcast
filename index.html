@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700|Lato:900|Fira+Sans:700">
+    <style>
+      html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        font-family: "Open Sans";
+        font-size: 12pt;
+      }
+
+      #main {
+        width: 600px;
+        margin: 0 auto;
+        padding: 1em 0 10em 0;
+      }
+
+      #title-image {
+        width: 450px;
+        margin: 0 auto;
+        display: block;
+      }
+
+      .icon {
+        height: 1em;
+        padding: 0 .25em;
+        position: relative;
+        top: .1em;
+      }
+
+      .subscribe {
+        text-decoration: none;
+      }
+
+      .subscribe:hover {
+        text-decoration: underline;
+      }
+
+      .help {
+        font-size: .8rem;
+      }
+
+      #recent-episode-list > ul {
+        list-style: none;
+        text-align: left;
+      }
+
+      #recent-episode-list > ul li {
+        padding-left: 110px;
+        background-repeat: no-repeat;
+        background-image: url(//podcast.webmaker.org/logo-og.jpg);
+        background-size: 100px;
+        background-position: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="main">
+      <img id="title-image" src="//podcast.webmaker.org/logo-og.jpg">
+      <h1>Webmaker Podcast</h1>
+      <h3>Hosted by Lucy Harris and Sarah Allen</h3>
+      <p><a class="subscribe" href="//podcast.webmaker.org/feed.xml"><img class="icon" src="//podcast.webmaker.org/rss.svg">Subscribe</a></p>
+      <br />
+      <p class="help">Use the "Subscribe" link above to add the Webmaker Podcast to your podcast listening software. You can copy the podcast feed url by right-clicking on the link and choosing "Copy Link Address".</p>
+      <br />
+      <div id="recent-episode-list">
+        <h2>Recent Episodes</h2>
+        <ul>
+        </ul>
+      </div>
+    </div>
+    <script>
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', 'episodes.json', true);
+      xhr.onload = function (e) {
+        var json = JSON.parse(xhr.responseText);
+        var episodeList = document.querySelector('#recent-episode-list > ul');
+        json.forEach(function (episode) {
+          var li = document.createElement('li');
+          var audio = document.createElement('audio');
+          var title = document.createElement('h4');
+          var description = document.createElement('p');
+
+          episode.custom_elements.forEach(function (el) {
+            if (el['itunes:image']) {
+              li.style.backgroundImage = 'url(' + el['itunes:image']._attr.href + ')';
+            }
+            if (el['enclosure']) {
+              var src = document.createElement('source');
+              src.src = el['enclosure']._attr.url;
+              src.type = el['enclosure']._attr.type;
+              audio.controls = true;
+              audio.appendChild(src);
+            }
+          });
+
+          title.innerText = episode.title;
+          description.innerText = episode.description;
+          li.appendChild(title);
+          li.appendChild(description);
+          li.appendChild(audio);
+          episodeList.appendChild(li);
+        });
+      };
+      xhr.send();
+    </script>
+  </body>
+</html>

@@ -4,7 +4,7 @@
   "generator": "Webmaker Podcast Feed Generator",
   "feed_url": "http://podcast.webmaker.org/feed.xml",
   "site_url": "http://podcast.webmaker.org/index.html",
-  "image_url": "http://podcast.webmaker.org/logo-og.png",
+  "image_url": "http://podcast.webmaker.org/logo-og.jpg",
   "docs": "http://podcast.webmaker.org/index.html",
   "author": "Mozilla Webmaker",
   "managingEditor": "Bobby Richter <bobby@mozillafoundation.org> and Lucy Harris <lucy@mozillafoundation.org>",
@@ -28,7 +28,7 @@
     {"itunes:explicit": false},
     {"itunes:image": {
       "_attr": {
-        "href": "http://podcast.webmaker.org/logo-og.png"
+        "href": "http://podcast.webmaker.org/logo-og.jpg"
       }
     }},
     {"itunes:keywords": [
