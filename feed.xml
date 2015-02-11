@@ -10,7 +10,7 @@
             <link>http://podcast.webmaker.org/index.html</link>
         </image>
         <generator>Webmaker Podcast Feed Generator</generator>
-        <lastBuildDate>Wed, 11 Feb 2015 15:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2015 16:52:14 GMT</lastBuildDate>
         <atom:link href="http://podcast.webmaker.org/feed.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Mozilla Webmaker]]></author>
         <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
@@ -54,7 +54,7 @@
             <itunes:subtitle>Webmaker Teach the Web Talk: Episode 1</itunes:subtitle>
             <itunes:summary>Privacy Day Webmaker Teach the Web Talk with Stacy Martin</itunes:summary>
             <itunes:duration>1172</itunes:duration>
-            <itunes:image href="http://podcast.webmaker.org/logo-og.jpg"/>
+            <itunes:image href="http://podcast.webmaker.org/TTWTalksCoverArt.jpg"/>
             <itunes:keywords>privacy</itunes:keywords>
         </item>
     </channel>
