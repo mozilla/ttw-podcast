@@ -57,6 +57,7 @@
         background-image: url(//podcast.webmaker.org/logo-og.jpg);
         background-size: 100px;
         background-position: 5px;
+        min-height: 110px;
       }
     </style>
   </head>
@@ -100,8 +101,8 @@
             }
           });
 
-          title.innerText = episode.title;
-          description.innerText = episode.description;
+          title.textContent = episode.title;
+          description.textContent = episode.description;
           li.appendChild(title);
           li.appendChild(description);
           li.appendChild(audio);
