@@ -14,7 +14,7 @@
         <atom:link href="http://mozilla.github.io/ttw-podcast/feed.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Mozilla Foundation]]></author>
         <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
-        <copyright><![CDATA[&#xA9; 2015 Bobby Richter, Lucy Harris, Mozilla Webmaker, Mozilla Foundation]]></copyright>
+        <copyright><![CDATA[&#xA9; 2015 Lucy Harris, Sarah Allen, Bobby Richter, Mozilla Webmaker, Mozilla Foundation]]></copyright>
         <language><![CDATA[en-us]]></language>
         <managingEditor><![CDATA[Bobby Richter <bobby@mozillafoundation.org> and Lucy Harris <lucy@mozillafoundation.org>]]></managingEditor>
         <webMaster><![CDATA[Bobby Richter <bobby@mozillafoundation.org>]]></webMaster>
