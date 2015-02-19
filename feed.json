@@ -1,12 +1,12 @@
 {
-  "title": "Webmaker Podcast",
-  "description": "Periodical talks and shows about teaching, learning, and making on the Web with Webmaker.",
+  "title": "Teach the Web Podcast",
+  "description": "Periodical talks and shows about teaching, learning, and making on the Web.",
   "generator": "Webmaker Podcast Feed Generator",
   "feed_url": "http://podcast.webmaker.org/feed.xml",
   "site_url": "http://podcast.webmaker.org/index.html",
   "image_url": "http://podcast.webmaker.org/logo-og.jpg",
   "docs": "http://podcast.webmaker.org/index.html",
-  "author": "Mozilla Webmaker",
+  "author": "Mozilla Foundation",
   "managingEditor": "Bobby Richter <bobby@mozillafoundation.org> and Lucy Harris <lucy@mozillafoundation.org>",
   "webMaster": "Bobby Richter <bobby@mozillafoundation.org>",
   "copyright": "&#xA9; 2015 Bobby Richter, Lucy Harris, Mozilla Webmaker, Mozilla Foundation",
@@ -18,9 +18,9 @@
     "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
   },
   "custom_elements": [
-    {"itunes:subtitle": "Webmaker Teach the Web Podcast"},
-    {"itunes:author": "Mozilla Webmaker"},
-    {"itunes:summary": "Periodical talks and shows about teaching, learning, and making on the Web with Webmaker."},
+    {"itunes:subtitle": "Teach the Web Podcast"},
+    {"itunes:author": "Mozilla Foundation"},
+    {"itunes:summary": "Periodical talks and shows about teaching, learning, and making on the Web."},
     {"itunes:owner": [
       {"itunes:name": "Bobby Richter"},
       {"itunes:email": "bobby@mozillafoundation.org"}
