@@ -1,25 +1,25 @@
 {
-  "name": "podcast.webmaker.org",
+  "name": "ttw-podcast",
   "version": "0.0.0",
-  "description": "Webmaker Podcast",
+  "description": "Teach the Web Podcast",
   "main": "make.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/secretrobotron/podcast.webmaker.org.git"
+    "url": "git://github.com/mozilla/ttw-podcast.git"
   },
   "keywords": [
     "webmaker",
     "podcast"
   ],
   "author": "Bobby Richter",
-  "license": "BSD",
+  "license": "MPL2",
   "bugs": {
-    "url": "https://github.com/secretrobotron/podcast.webmaker.org/issues"
+    "url": "https://github.com/mozilla/ttw-podcast/issues"
   },
-  "homepage": "https://github.com/secretrobotron/podcast.webmaker.org",
+  "homepage": "https://github.com/mozilla/ttw-podcast",
   "devDependencies": {
     "rss": "^1.1.1",
     "node-uuid": "^1.4.2"
