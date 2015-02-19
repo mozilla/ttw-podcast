@@ -4,7 +4,7 @@
   "generator": "Webmaker Podcast Feed Generator",
   "feed_url": "http://mozilla.github.io/ttw-podcast/feed.xml",
   "site_url": "http://mozilla.github.io/ttw-podcast/index.html",
-  "image_url": "http://podcast.webmaker.org/logo-og.jpg",
+  "image_url": "http://podcast.webmaker.org/TTWTalksCoverArt.jpg",
   "docs": "http://mozilla.github.io/ttw-podcast/index.html",
   "author": "Mozilla Foundation",
   "managingEditor": "Bobby Richter <bobby@mozillafoundation.org> and Lucy Harris <lucy@mozillafoundation.org>",
@@ -28,7 +28,7 @@
     {"itunes:explicit": false},
     {"itunes:image": {
       "_attr": {
-        "href": "http://podcast.webmaker.org/logo-og.jpg"
+        "href": "http://podcast.webmaker.org/TTWTalksCoverArt.jpg"
       }
     }},
     {"itunes:keywords": [
