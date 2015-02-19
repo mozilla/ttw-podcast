@@ -27,23 +27,36 @@
         display: block;
       }
 
-      .icon {
-        height: 1em;
-        padding: 0 .25em;
-        position: relative;
-        top: .1em;
-      }
-
       .subscribe {
-        text-decoration: none;
+        border-radius: 4px;
+        width: 110px;
+        display: inline-block;
+        height: 40px;
+        overflow: hidden;
+        box-shadow: 0 0 1px rgb(100, 100, 100);
+        background: linear-gradient(60deg, #ffffff 0%, #ffffff 60%, rgba(255, 255, 255, 0) 51%, rgba(255, 255, 255, 0) 100%), linear-gradient(to bottom,  rgba(0,0,0,0.1) 0%, rgba(255,255,255, 1) 90%);
       }
 
-      .subscribe:hover {
-        text-decoration: underline;
+      .subscribe .content {
+        display: block;
+        text-decoration: none;
+        color: black;
+        font-size: 8px;
+        background-image: url('//stuff.webmaker.org/ttw-podcast/rss.svg');
+        background-position: 11px 7px;
+        background-repeat: no-repeat;
+        background-size: 25px;
+        padding-left: 30px;
+        padding-top: 4px;
+      }
+
+      .subscribe .big {
+        font-size: 15px;
       }
 
       .help {
         font-size: .8rem;
+        clear: both;
       }
 
       #recent-episode-list > ul {
@@ -59,6 +72,22 @@
         background-position: 5px;
         min-height: 110px;
       }
+
+      .subscriptions {
+        width: 230px;
+        margin: 0 auto;
+        margin-bottom: 80px;
+      }
+
+      .subscriptions > div {
+        display: inline-block;
+        height: 40px;
+        float: left;
+      }
+
+      .subscriptions > div:first-child {
+        margin-right: 4px;
+      }
     </style>
   </head>
   <body>
@@ -66,8 +95,10 @@
       <img id="title-image" src="//stuff.webmaker.org/ttw-podcast/TTWTalksCoverArt.jpg">
       <h1>Teach the Web Podcast</h1>
       <h3>Hosted by Lucy Harris and Sarah Allen<br />Produced by Bobby Richter</h3>
-      <p><a class="subscribe" href="feed.xml"><img class="icon" src="//stuff.webmaker.org/ttw-podcast/rss.svg">Subscribe</a></p>
-      <br />
+      <div class="subscriptions">
+        <div class="subscribe"><a class="content" href="feed.xml">Subscribe via<br /><span class="big">RSS</span></a></div>
+        <div><a href="https://itunes.apple.com/ca/podcast/teach-the-web-podcast/id969127962?mt=2" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_subscribe-lrg.png) no-repeat;width:110px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_subscribe-lrg.svg);}"></a></div>
+      </div>
       <p class="help">Use the "Subscribe" link above to add the this podcast to your podcast listening software. You can copy the podcast feed url by right-clicking on the link and choosing "Copy Link Address".</p>
       <br />
       <div id="recent-episode-list">
