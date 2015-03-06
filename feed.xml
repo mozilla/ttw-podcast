@@ -10,12 +10,12 @@
             <link>http://mozilla.github.io/ttw-podcast/index.html</link>
         </image>
         <generator>Webmaker Podcast Feed Generator</generator>
-        <lastBuildDate>Fri, 06 Mar 2015 18:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2015 18:50:19 GMT</lastBuildDate>
         <atom:link href="http://mozilla.github.io/ttw-podcast/feed.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
         <copyright><![CDATA[&#xA9; 2015 Lucy Harris, Sarah Allen, Bobby Richter, Mozilla Webmaker, Mozilla Foundation]]></copyright>
         <language><![CDATA[en-us]]></language>
-        <managingEditor><![CDATA[bobby@mozillafoundation.org (Bobby Richter), lucy@mozillafoundation.org (Lucy Harris)]]></managingEditor>
+        <managingEditor><![CDATA[bobby@mozillafoundation.org (Bobby Richter)]]></managingEditor>
         <webMaster><![CDATA[bobby@mozillafoundation.org (Bobby Richter)]]></webMaster>
         <docs>http://mozilla.github.io/ttw-podcast/index.html</docs>
         <ttl>10080</ttl>
