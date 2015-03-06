@@ -10,14 +10,14 @@
             <link>http://mozilla.github.io/ttw-podcast/index.html</link>
         </image>
         <generator>Webmaker Podcast Feed Generator</generator>
-        <lastBuildDate>Fri, 06 Mar 2015 18:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2015 18:46:26 GMT</lastBuildDate>
         <atom:link href="http://mozilla.github.io/ttw-podcast/feed.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Mozilla Foundation]]></author>
         <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
         <copyright><![CDATA[&#xA9; 2015 Lucy Harris, Sarah Allen, Bobby Richter, Mozilla Webmaker, Mozilla Foundation]]></copyright>
         <language><![CDATA[en-us]]></language>
-        <managingEditor><![CDATA[Bobby Richter <bobby@mozillafoundation.org> and Lucy Harris <lucy@mozillafoundation.org>]]></managingEditor>
-        <webMaster><![CDATA[Bobby Richter <bobby@mozillafoundation.org>]]></webMaster>
+        <managingEditor><![CDATA[bobby@mozillafoundation.org (Bobby Richter), lucy@mozillafoundation.org (Lucy Harris)]]></managingEditor>
+        <webMaster><![CDATA[bobby@mozillafoundation.org (Bobby Richter)]]></webMaster>
         <docs>http://mozilla.github.io/ttw-podcast/index.html</docs>
         <ttl>10080</ttl>
         <category><![CDATA[web]]></category>
@@ -34,7 +34,7 @@
             <itunes:name>Bobby Richter</itunes:name>
             <itunes:email>bobby@mozillafoundation.org</itunes:email>
         </itunes:owner>
-        <itunes:explicit>false</itunes:explicit>
+        <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://stuff.webmaker.org/ttw-podcast/TTWTalksCoverArt.jpg"/>
         <itunes:keywords>
         </itunes:keywords>
@@ -50,7 +50,6 @@
             <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
             <enclosure url="http://stuff.webmaker.org/ttw-podcast/TTW-Episode001.mp3" length="18756079" type="audio/mpeg"/>
             <itunes:author>Lucy Harris and Sarah Allen</itunes:author>
-            <itunes:explicit>false</itunes:explicit>
             <itunes:subtitle>Teach the Web Talk: Episode 1</itunes:subtitle>
             <itunes:summary>Privacy Day Teach the Web Talk with Stacy Martin</itunes:summary>
             <itunes:duration>1172</itunes:duration>

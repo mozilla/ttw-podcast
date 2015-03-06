@@ -7,8 +7,8 @@
   "image_url": "http://stuff.webmaker.org/ttw-podcast/TTWTalksCoverArt.jpg",
   "docs": "http://mozilla.github.io/ttw-podcast/index.html",
   "author": "Mozilla Foundation",
-  "managingEditor": "Bobby Richter <bobby@mozillafoundation.org> and Lucy Harris <lucy@mozillafoundation.org>",
-  "webMaster": "Bobby Richter <bobby@mozillafoundation.org>",
+  "managingEditor": "bobby@mozillafoundation.org (Bobby Richter), lucy@mozillafoundation.org (Lucy Harris)",
+  "webMaster": "bobby@mozillafoundation.org (Bobby Richter)",
   "copyright": "&#xA9; 2015 Lucy Harris, Sarah Allen, Bobby Richter, Mozilla Webmaker, Mozilla Foundation",
   "language": "en-us",
   "categories": ["web", "web literacy", "teach", "learn", "teaching", "learning", "mozilla"],
@@ -25,7 +25,7 @@
       {"itunes:name": "Bobby Richter"},
       {"itunes:email": "bobby@mozillafoundation.org"}
     ]},
-    {"itunes:explicit": false},
+    {"itunes:explicit": "no"},
     {"itunes:image": {
       "_attr": {
         "href": "http://stuff.webmaker.org/ttw-podcast/TTWTalksCoverArt.jpg"
