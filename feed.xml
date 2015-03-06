@@ -10,7 +10,7 @@
             <link>http://mozilla.github.io/ttw-podcast/index.html</link>
         </image>
         <generator>Webmaker Podcast Feed Generator</generator>
-        <lastBuildDate>Thu, 19 Feb 2015 21:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2015 18:13:24 GMT</lastBuildDate>
         <atom:link href="http://mozilla.github.io/ttw-podcast/feed.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Mozilla Foundation]]></author>
         <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
@@ -54,6 +54,22 @@
             <itunes:subtitle>Teach the Web Talk: Episode 1</itunes:subtitle>
             <itunes:summary>Privacy Day Teach the Web Talk with Stacy Martin</itunes:summary>
             <itunes:duration>1172</itunes:duration>
+            <itunes:image href="http://stuff.webmaker.org/ttw-podcast/TTWTalksCoverArt.jpg"/>
+            <itunes:keywords>privacy</itunes:keywords>
+        </item>
+        <item>
+            <title><![CDATA[Teach the Web Talk: Episode 2 - Shoot It]]></title>
+            <description><![CDATA[Learn how to use photography to tell the story of your event, your work, or your organization through this talk with 100cameras.]]></description>
+            <link>http://mozilla.github.io/ttw-podcast/index.html#ttw-episode-2</link>
+            <guid isPermaLink="false">6a84021b-075c-407d-ab5d-1f4d2733e3a2</guid>
+            <dc:creator><![CDATA[Lucy Harris and Sarah Allen]]></dc:creator>
+            <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
+            <enclosure url="http://stuff.webmaker.org/ttw-podcast/TTW-Episode002.mp3" length="18007925" type="audio/mpeg"/>
+            <itunes:author>Lucy Harris and Sarah Allen</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:subtitle>Teach the Web Talk: Episode 2</itunes:subtitle>
+            <itunes:summary>Learn about photography and storytelling with 100cameras.</itunes:summary>
+            <itunes:duration>1125</itunes:duration>
             <itunes:image href="http://stuff.webmaker.org/ttw-podcast/TTWTalksCoverArt.jpg"/>
             <itunes:keywords>privacy</itunes:keywords>
         </item>

@@ -6,28 +6,89 @@
     "author": "Lucy Harris and Sarah Allen",
     "date": "Feb 10, 2015",
     "custom_elements": [
-      {"enclosure": {
-        "_attr": {
-          "url": "http://stuff.webmaker.org/ttw-podcast/TTW-Episode001.mp3",
-          "length": 18756079,
-          "type": "audio/mpeg"
+      {
+        "enclosure": {
+          "_attr": {
+            "url": "http://stuff.webmaker.org/ttw-podcast/TTW-Episode001.mp3",
+            "length": 18756079,
+            "type": "audio/mpeg"
+          }
         }
-      }},
-      {"itunes:author": "Lucy Harris and Sarah Allen"},
-      {"itunes:explicit": false},
-      {"itunes:subtitle": "Teach the Web Talk: Episode 1"},
-      {"itunes:summary": "Privacy Day Teach the Web Talk with Stacy Martin"},
-      {"itunes:duration": 1172},
-      {"itunes:image": {
+      },
+      {
+        "itunes:author": "Lucy Harris and Sarah Allen"
+      },
+      {
+        "itunes:explicit": false
+      },
+      {
+        "itunes:subtitle": "Teach the Web Talk: Episode 1"
+      },
+      {
+        "itunes:summary": "Privacy Day Teach the Web Talk with Stacy Martin"
+      },
+      {
+        "itunes:duration": 1172
+      },
+      {
+        "itunes:image": {
           "_attr": {
             "href": "http://stuff.webmaker.org/ttw-podcast/TTWTalksCoverArt.jpg"
           }
         }
       },
-      {"itunes:keywords": [
-        "privacy"
-      ]}
+      {
+        "itunes:keywords": [
+          "privacy"
+        ]
+      }
     ],
     "guid": "0aa92aa5-6af5-43e5-a01f-cecc10438df4"
+  },
+  {
+    "title": "Teach the Web Talk: Episode 2 - Shoot It",
+    "description": "Learn how to use photography to tell the story of your event, your work, or your organization through this talk with 100cameras.",
+    "url": "http://mozilla.github.io/ttw-podcast/index.html#ttw-episode-2",
+    "author": "Lucy Harris and Sarah Allen",
+    "date": "Feb 10, 2015",
+    "custom_elements": [
+      {
+        "enclosure": {
+          "_attr": {
+            "url": "http://stuff.webmaker.org/ttw-podcast/TTW-Episode002.mp3",
+            "length": 18007925,
+            "type": "audio/mpeg"
+          }
+        }
+      },
+      {
+        "itunes:author": "Lucy Harris and Sarah Allen"
+      },
+      {
+        "itunes:explicit": false
+      },
+      {
+        "itunes:subtitle": "Teach the Web Talk: Episode 2"
+      },
+      {
+        "itunes:summary": "Learn about photography and storytelling with 100cameras."
+      },
+      {
+        "itunes:duration": 1125
+      },
+      {
+        "itunes:image": {
+          "_attr": {
+            "href": "http://stuff.webmaker.org/ttw-podcast/TTWTalksCoverArt.jpg"
+          }
+        }
+      },
+      {
+        "itunes:keywords": [
+          "privacy"
+        ]
+      }
+    ],
+    "guid": "6a84021b-075c-407d-ab5d-1f4d2733e3a2"
   }
 ]
