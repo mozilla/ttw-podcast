@@ -10,7 +10,7 @@
             <link>http://mozilla.github.io/ttw-podcast/index.html</link>
         </image>
         <generator>Webmaker Podcast Feed Generator</generator>
-        <lastBuildDate>Fri, 06 Mar 2015 18:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2015 13:24:54 GMT</lastBuildDate>
         <atom:link href="http://mozilla.github.io/ttw-podcast/feed.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
         <copyright><![CDATA[&#xA9; 2015 Lucy Harris, Sarah Allen, Bobby Richter, Mozilla Webmaker, Mozilla Foundation]]></copyright>
@@ -59,7 +59,7 @@
             <description><![CDATA[Learn how to use photography to tell the story of your event, your work, or your organization through this talk with 100cameras.]]></description>
             <link>http://mozilla.github.io/ttw-podcast/index.html#ttw-episode-2</link>
             <guid isPermaLink="false">6a84021b-075c-407d-ab5d-1f4d2733e3a2</guid>
-            <pubDate>Tue, 10 Feb 2015 05:00:00 GMT</pubDate>
+            <pubDate>Mon, 09 Mar 2015 04:00:00 GMT</pubDate>
             <enclosure url="http://stuff.webmaker.org/ttw-podcast/TTW-Episode002.mp3" length="18007925" type="audio/mpeg"/>
             <itunes:author>Lucy Harris and Sarah Allen</itunes:author>
             <itunes:subtitle>Teach the Web Talk: Episode 2</itunes:subtitle>
